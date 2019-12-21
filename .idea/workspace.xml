@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44cc18c3-f014-42c3-bda6-d611d85b3244" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_Embeding/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1622">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#23#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_Messages/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#14#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_Polymorphism/client/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#14#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_Polymorphism/payment/payment.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_Polymorphism/paybroker/paybroker.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_Messages/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="52">
+                <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_Polymorphism/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="468">
+                <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/golang" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test/test01.go" />
+        <option value="$PROJECT_DIR$/1_/main.go" />
+        <option value="$PROJECT_DIR$/2_Messages/readme.md" />
+        <option value="$PROJECT_DIR$/2_Messages/main.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/readme.md.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/main.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/readme.md" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/client.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/client/client.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/payment/payment.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/paybroker/paybroker.go" />
+        <option value="$PROJECT_DIR$/3_Polymorphism/client/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Embeding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+              <item name="3_Polymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+              <item name="3_Polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+              <item name="3_Polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="paybroker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goop" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.9" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.9" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.9" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="os" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3_Polymorphism/client/main.go" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3_Polymorphism" />
+      <recent name="$PROJECT_DIR$/2_Messages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3_Polymorphism/client" />
+      <recent name="$PROJECT_DIR$/3_Polymorphism/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/1_" />
+      <recent name="$PROJECT_DIR$/Test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.3_Polymorphism">
+    <configuration name="1_Embeding" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goop" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/|$PROJECT_DIR$/1_/main.go" />
+      <package value="goop" />
+      <directory value="$PROJECT_DIR$/1_Embeding" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_Messages" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goop" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/2_Messages/main.go" />
+      <package value="goop" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_Polymorphism" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goop" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/3_Polymorphism/client/main.go" />
+      <package value="goop" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.1_Embeding" />
+      <item itemvalue="Go Build.2_Messages" />
+      <item itemvalue="Go Build.3_Polymorphism" />
+    </list>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3297062" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test01.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Embeding/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1622">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Polymorphism/readme.md.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Messages/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Messages/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/golang/src/os/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/golang/src/os/sys_linux.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/golang/src/os/sys_plan9.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/golang/src/os/sys_solaris.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/golang/src/os/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Polymorphism/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Polymorphism/payment/payment.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Polymorphism/paybroker/paybroker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Polymorphism/client/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
